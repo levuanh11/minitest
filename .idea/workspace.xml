@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d54b14c6-4a5e-4b06-b5a0-d494b82c6554" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiTap.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,7 +50,7 @@
       <workItem from="1652169736296" duration="331000" />
       <workItem from="1652170096308" duration="1561000" />
       <workItem from="1652171742288" duration="3034000" />
-      <workItem from="1652186040819" duration="2245000" />
+      <workItem from="1652186040819" duration="4820000" />
     </task>
     <servers />
   </component>
