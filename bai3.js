@@ -1,3 +1,9 @@
-let a= document.getElementById("numa").innerHTML
-let b= document.getElementById("numb").innerHTML
-let S=a*b
+let a= document.getElementById("numa")
+let b= document.getElementById("numb")
+
+document.getElementById("button").onclick= function(){
+    result()
+}
+function result(){
+    document.getElementById("result").innerHTML= parseInt(a.value) * parseInt(b.value)
+}
